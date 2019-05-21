@@ -1,5 +1,7 @@
 ﻿using System;
 
+using Newtonsoft.Json;
+
 namespace polymorphism2
 {
     internal class ConvertToJson : IConvertObject
